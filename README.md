@@ -9,3 +9,4 @@ Our idea was to create an application using Neural Network that could be trained
 * [Karan Guleri](https://www.github.com/KDSG)
 * [Ayush Aggarwal](https://www.github.com/ayushagg31)
 * Tarun Pratap
+* ANISH KAUSHAL (https://github.com/4NI5H)
